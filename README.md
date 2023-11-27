@@ -31,4 +31,4 @@ Os códigos de status HTTP indicam o resultado da solicitação do cliente para 
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Guia Básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
--  Autor do resumo: Carlos Cabral-01534117
+  **Autor do resumo: Carlos Cabral-01534117**
