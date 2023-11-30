@@ -1,10 +1,10 @@
 **Resumo sobre API REST e Implementação RESTful, Verbos HTTP e HTTP Status Codes**
 
-###Api REST e RESTFul
+### Api REST e RESTFul
 
 Uma **API REST (Representational State Transfer)** é um conjunto de princípios de arquitetura para projetar redes interativas. Ela utiliza uma abordagem stateless, o que significa que cada solicitação do cliente para o servidor deve conter todas as informações necessárias para entender e processar a solicitação. As APIs REST são baseadas em recursos, que são identificáveis e manipuláveis através dos URIs (Uniform Resource Identifiers); Uma implementação **RESTful** segue os princípios da arquitetura REST. Isso inclui a utilização de métodos HTTP para operações CRUD (Create, Read, Update, Delete) em recursos identificados por URIs. Além disso, a comunicação entre cliente e servidor é stateless, o que simplifica a escalabilidade e a manutenção.
 
-###Diferenças entre REST e RESTFul
+### Diferenças entre REST e RESTFul
 
 REST:
 Utiliza os métodos HTTP de forma genérica.
