@@ -7,14 +7,14 @@ Uma **API REST (Representational State Transfer)** é um conjunto de princípios
 ### Diferenças entre REST e RESTFul
 
 REST:
-Utiliza os métodos HTTP de forma genérica.
-Não segue rigidamente os princípios do REST.
-Pode ter uma implementação mais flexível.
+- Utiliza os métodos HTTP de forma genérica.
+- Não segue rigidamente os princípios do REST.
+- Pode ter uma implementação mais flexível.
 
 RESTFul:
-Adere estritamente aos princípios do REST.
-Utiliza os métodos HTTP de maneira específica, seguindo as diretrizes do REST.
-Traz maior padronização e previsibilidade para a API.
+- Adere estritamente aos princípios do REST.
+- Utiliza os métodos HTTP de maneira específica, seguindo as diretrizes do REST.
+- Traz maior padronização e previsibilidade para a API.
 
 
 ### Verbos HTTP
